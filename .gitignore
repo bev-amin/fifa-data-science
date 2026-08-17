@@ -1,0 +1,33 @@
+.ignore
+1
+# Python
+2
+__pycache__/
+3
+*.pyc
+4
+*.pyo
+5
+*.pyd
+6
+.venv/
+7
+venv/
+8
+ 
+9
+# Jupyter
+10
+.ipynb_checkpoints/
+11
+ 
+12
+# VS Code
+13
+.vscode/
+14
+ 
+15
+# Environment variables
+16
+.env
