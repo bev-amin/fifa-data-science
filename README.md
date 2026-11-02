@@ -22,14 +22,14 @@ The aim of this project is to answer the project question:
 :blue_book: Used in 2nd notebook (02-further-analysis.ipynb)
 
 5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup ('data-csv' subfolder)  
-    1) players.csv  
-    2) qualified_teams.csv  
-    3) squads.csv  
-    4) substitutions.csv  
-    5) tournaments.csv  
-    6) goals.csv  
-    7) host_countries.csv  
-    8) penalty_kicks.csv  
-    9) manager_appointments.csv
+    - players.csv  
+    - qualified_teams.csv  
+    - squads.csv  
+    - substitutions.csv  
+    - tournaments.csv  
+    - goals.csv  
+    - host_countries.csv  
+    - penalty_kicks.csv  
+    - manager_appointments.csv
 
 
