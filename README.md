@@ -8,6 +8,28 @@ The aim of this project is to answer the project question:
 - Examine player and team characteristics
 - Identify trends and correlations
 
+
+
+### Getting Set Up
+:white_check_mark: 
+:package: Packages to install:
+- NumPy Version: 2.5.1
+- Matplotlib Version: 3.11.0
+- Seaborn Version: 0.13.2
+- Pandas Version: 3.0.3
+- Datetime - Python version 3.12.10
+- Re - Python version 3.12.10
+- Pathlib - Python version 3.12.10
+- SciPy Version: 1.18.1
+
+:bangbang: NOTE:
+- This repository can be cloned and run in your local environment, however, some data files were too large to push this repository. 
+- The ones which need to be downloaded separately are:
+
+
+
+
+
 ### Data Sources:
 
 :blue_book: Used in 1st notebook (01-exploration.ipynb)
