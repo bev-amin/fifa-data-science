@@ -1,18 +1,21 @@
 # FIFA World Cup Data Analysis
-:trophy: :soccer: :bar_chart:
-The aim of this project is to answer the project question: 
+
+:trophy: :soccer: :bar_chart:  
+The aim of this project is to answer the project question:
+
 ## What drives success for teams in the FIFA world cup and what factors influence match outcomes?
+
 :pushpin: Objectives:
+
 - Explore historical World Cup performance
 - Investigate factors associated with tournament success
 - Examine player and team characteristics
 - Identify trends and correlations
 
-
-
 ### Getting Set Up
-:white_check_mark: 
-:package: Packages to install:
+
+:package: Packages Used:
+
 - NumPy Version: 2.5.1
 - Matplotlib Version: 3.11.0
 - Seaborn Version: 0.13.2
@@ -21,13 +24,8 @@ The aim of this project is to answer the project question:
 - Re - Python version 3.12.10
 - Pathlib - Python version 3.12.10
 - SciPy Version: 1.18.1
-
-:bangbang: NOTE:
-- This repository can be cloned and run in your local environment, however, some data files were too large to push this repository. 
-- The ones which need to be downloaded separately are:
-
-
-
+- Scikit-learn Version 1.9.1
+- statsmodels Version: 0.15.0  
 
 
 ### Data Sources:
@@ -39,19 +37,27 @@ The aim of this project is to answer the project question:
 3. Football Players Data - https://www.kaggle.com/datasets/maso0dahmed/football-players-data?resource=download
 4. player_performances.csv - https://github.com/salimt/football-datasets
 
-
-
 :blue_book: Used in 2nd notebook (02-further-analysis.ipynb)
 
-5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup ('data-csv' subfolder)  
-    - players.csv  
-    - qualified_teams.csv  
-    - squads.csv  
-    - substitutions.csv  
-    - tournaments.csv  
-    - goals.csv  
-    - host_countries.csv  
-    - penalty_kicks.csv  
-    - manager_appointments.csv
+5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup ('data-csv' subfolder)
+   - players.csv
+   - qualified_teams.csv
+   - squads.csv
+   - substitutions.csv
+   - tournaments.csv
+   - goals.csv
+   - host_countries.csv
+   - penalty_kicks.csv
+   - manager_appointments.csv
 
 
+:bangbang: NOTE:
+- This repository can be cloned and run in your local environment, however, some data files were too large to push to this repository.
+- The ones which need to be downloaded separately into the data folder from https://github.com/jfjelstul/worldcup are:
+- player_market_value.csv
+- player_performances.csv
+- player_profiles.csv
+- players.csv
+- squads.csv
+- substitutions.csv
+- team_competitions_seasons.csv
