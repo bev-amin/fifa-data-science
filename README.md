@@ -4,14 +4,14 @@
 
 ## What drives success for teams in the FIFA world cup and what factors influence match outcomes?  
 
-:pushpin: <ins>Objectives</ins>:
+:pushpin: <ins>**Objectives**</ins>:
 
 - Explore historical World Cup performance
 - Investigate factors associated with tournament success
 - Examine player and team characteristics
 - Identify trends and correlations
 
-:package: <ins>Packages Used</ins>:
+:package: <ins>**Packages Used**</ins>:
 
 - NumPy Version: 2.5.1
 - Matplotlib Version: 3.11.0
@@ -25,14 +25,14 @@
 - statsmodels Version: 0.15.0  
 
 
-:spiral_notepad: <ins>Data Sources used in 1st notebook (01-exploration.ipynb)</ins>:
+:spiral_notepad: <ins>**Data Sources used in 1st notebook (01-exploration.ipynb)**</ins>:
 
 1. International football results from 1872 to 2026 - https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data
 2. FIFA World Cup Complete Dataset: 1930–2026 - https://www.kaggle.com/datasets/kulkarniparth09/fifa-world-cup-complete-dataset-19302026
 3. Football Players Data - https://www.kaggle.com/datasets/maso0dahmed/football-players-data?resource=download
 4. player_performances.csv - https://github.com/salimt/football-datasets
 
-:spiral_notepad: <ins>Data Sources used in 2nd notebook (02-further-analysis.ipynb)</ins>:
+:spiral_notepad: <ins>**Data Sources used in 2nd notebook (02-further-analysis.ipynb)**</ins>:
 
 5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup
    - players.csv
@@ -46,7 +46,7 @@
    - manager_appointments.csv
 
 
-:bangbang: <ins>NOTE</ins>:
+:bangbang: <ins>**NOTE**</ins>:
 - This repository can be cloned and run in your local environment, however, some data files were too large to push to this repository.
 - The ones which need to be downloaded separately from https://github.com/jfjelstul/worldcup are:
 - player_market_value.csv
