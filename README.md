@@ -1,9 +1,8 @@
 # FIFA World Cup Data Analysis
 
 :trophy: :soccer: :bar_chart:  
-The aim of this project is to answer the project question:
 
-## What drives success for teams in the FIFA world cup and what factors influence match outcomes?
+## What drives success for teams in the FIFA world cup and what factors influence match outcomes?  
 
 :pushpin: Objectives:
 
@@ -11,8 +10,6 @@ The aim of this project is to answer the project question:
 - Investigate factors associated with tournament success
 - Examine player and team characteristics
 - Identify trends and correlations
-
-### Getting Set Up
 
 :package: Packages Used:
 
@@ -39,7 +36,7 @@ The aim of this project is to answer the project question:
 
 :blue_book: Used in 2nd notebook (02-further-analysis.ipynb)
 
-5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup ('data-csv' subfolder)
+5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup
    - players.csv
    - qualified_teams.csv
    - squads.csv
@@ -53,7 +50,7 @@ The aim of this project is to answer the project question:
 
 :bangbang: NOTE:
 - This repository can be cloned and run in your local environment, however, some data files were too large to push to this repository.
-- The ones which need to be downloaded separately into the data folder from https://github.com/jfjelstul/worldcup are:
+- The ones which need to be downloaded separately from https://github.com/jfjelstul/worldcup are:
 - player_market_value.csv
 - player_performances.csv
 - player_profiles.csv
