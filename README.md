@@ -25,16 +25,14 @@
 - statsmodels Version: 0.15.0  
 
 
-### Data Sources:
-
-:blue_book: Used in 1st notebook (01-exploration.ipynb)
+:spiral_notepad: Data Sources used in 1st notebook (01-exploration.ipynb)
 
 1. International football results from 1872 to 2026 - https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017/data
 2. FIFA World Cup Complete Dataset: 1930–2026 - https://www.kaggle.com/datasets/kulkarniparth09/fifa-world-cup-complete-dataset-19302026
 3. Football Players Data - https://www.kaggle.com/datasets/maso0dahmed/football-players-data?resource=download
 4. player_performances.csv - https://github.com/salimt/football-datasets
 
-:blue_book: Used in 2nd notebook (02-further-analysis.ipynb)
+:spiral_notepad: Data Sources used in 2nd notebook (02-further-analysis.ipynb)
 
 5. Fjelstul, Joshua C. "The Fjelstul World Cup Database v.1.2.0." July 19, 2023. https://github.com/jfjelstul/worldcup
    - players.csv
